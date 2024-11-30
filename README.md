@@ -1,2 +1,0 @@
-# CodeClauseInternship_ProjectName
-codeclause project
